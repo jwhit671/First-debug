@@ -12,28 +12,3 @@ The code below has the following errors:
 6. The image is squished (too thin).
 7. "Have you seen The Tech Academy's Student Orientation video?" is not centered.
 8. The embedded Youtube video isn't displaying.
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<title>This is the Title</Title>
-</head>
-<body>
- <header>
-<h1>This is the Heading</h1>
-    <p>"This is the Title" I have a Title and a Heading.</p>
-	
-	</header>
-   <body bgcolor="33CAFF">
-   <body text="3933FF">
-     <p><b>I am a bold student of The Tech Academy.</b></p>
-     <p><a href="http://www.learncodinganywhere.com/"> This is The Tech Academy's website.</a></p>
-
-     <img src="http://cdn.bigbangfish.com/beautiful/beautiful-sunrise/beautiful-sunrise-11.jpg"
-     alt="Beautiful Sunrise" style="width:300pxpx;height:228px;">
-    
-	<h3><center> Have you seen The Tech Academy's Student Orientation video?</center></h3>
-      
-	  <object data="https://www.youtube.com/embed/TZEVgjtcZs0" 
-	  width=560" height="315"frameborder="0"allowfullscreen></object>
-    </body>
-</html>
